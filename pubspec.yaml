@@ -1,0 +1,15 @@
+name: range
+version: 0.1.0
+description: Utility classes for generating iterables with evenly spaced values.
+authors:
+  - Michael Fenwick <mike@mikefenwick.com>
+homepage: http://github.com/MichaelFenwick/Range
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+dependencies:
+  meta: ^1.1.8
+dev_dependencies:
+  test: ^1.0.0
+  build_runner: ^0.10.0
+  build_test: ^0.10.2
+  build_web_compilers: ^0.4.0

@@ -1,0 +1,11 @@
+#IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#Dart
+.dart_tool/
+.packages
+pubspec.lock
+doc/api/
